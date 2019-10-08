@@ -2,3 +2,5 @@ WPU - RESOLUSI
 - Konsisten untuk membuat konten
 - Membuat platform untuk mengelolaan video
 - Membuat Forum diskusi
+- Membuat web dari awal
+- Memelihara website
